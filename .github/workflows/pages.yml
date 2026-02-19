@@ -2,8 +2,10 @@ name: Pages
 
 on:
   push:
-    branches:
-      - main # default branch
+    tags:
+      - 'v*'
+    # branches:
+      # - main # default branch
 
 jobs:
   build:

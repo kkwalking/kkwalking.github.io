@@ -1,0 +1,11 @@
+menu:
+  主页: /
+
+beian:
+  enable: false
+
+sidebar:
+  avatar: https://avatars.githubusercontent.com/u/22633670?v=4
+  notice: 博客首页 <a href="https://kkwalking.github.io" target="_blank">https://kkwalking.github.io</a>
+  category: true
+  github: https://github.com/kkwalking
